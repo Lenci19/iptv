@@ -1,9 +1,5 @@
-https://iptv-org.github.io/iptv/countries/al.m3u 
-https://iptv-org.github.io/iptv/countries/xk.m3u 
-https://iptv-org.github.io/iptv/countries/de.m3u 
-https://iptv-org.github.io/iptv/countries/it.m3u 
-https://iptv-org.github.io/iptv/countries/jm.m3u 
-https://iptv-org.github.io/iptv/countries/kw.m3u 
-https://iptv-org.github.io/iptv/countries/ge.m3u 
-https://iptv-org.github.io/iptv/countries/fr.m3u 
-https://iptv-org.github.io/iptv/countries/gr.m3u
+#EXTM3U
+#EXTINF:-1,A 
+https://streema.com/tv/Vizion_Plus 
+#EXTINF:-1,B 
+https://streema.com/tv/TV_Klan
